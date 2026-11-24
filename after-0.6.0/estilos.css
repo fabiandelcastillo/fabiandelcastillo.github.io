@@ -7,3 +7,4 @@ p{margin:16px 0}aside{background:#fff0bd;border-radius:20px;padding:20px}.meta{c
 .cards a{display:flex;justify-content:space-between;gap:16px;background:#edf3fa;padding:24px;border-radius:20px;font-size:1.2rem;font-weight:700;text-decoration:none}
 .cards a:hover{background:#e0eafa}footer{border-top:1px solid #dce4ee;font-size:.9rem;margin-top:32px;padding-bottom:48px}
 @media print{nav,.cards{display:none}header,main,footer{max-width:100%;padding:8px}aside{border:1px solid #ddd}a{color:inherit}}
+
